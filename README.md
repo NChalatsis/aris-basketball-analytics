@@ -98,7 +98,7 @@ The dashboard includes:
 ## 👤 Author
 
 **Nikolaos Chalatsis** — Junior Data Engineer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/NChalatsis) · [LinkedIn](https://www.linkedin.com/in/nchalatsis/)
 
 ---
 
