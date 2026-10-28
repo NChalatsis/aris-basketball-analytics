@@ -27,7 +27,7 @@ basketball statistics for Aris Thessaloniki (Basket League 2024-2025).
 
 ## 📁 Project Structure
 ```
-AbcAnalytics/
+aris-basketball-analytics/
 ├── data/
 │   ├── raw/                  # Raw data from API
 │   └── processed/            # Transformed data
@@ -47,8 +47,8 @@ AbcAnalytics/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/AbcAnalytics.git
-cd AbcAnalytics
+git clone https://github.com/NChalatsis/aris-basketball-analytics.git
+cd aris-basketball-analytics
 ```
 
 **2. Create a virtual environment**
